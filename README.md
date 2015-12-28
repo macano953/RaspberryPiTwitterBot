@@ -1,2 +1,2 @@
 #Raspberry Pi Twitter Bot
-https://twitter.com/Pi2Raspberry
+A Python application that makes a Raspberry Pi tweet its SoC temperature. Take a look at [Twitter](https://twitter.com/Pi2Raspberry)!
